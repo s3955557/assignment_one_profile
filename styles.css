@@ -1,0 +1,17 @@
+body {
+  background-color: #2b6777;
+  max-width: 70%;
+  font-family: sans-serif;
+}
+
+p, ul, ol, li{
+  color: white;
+  font-family: sans-serif;
+}
+
+div{
+  padding-left: 50px;
+  padding-right: 40px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
